@@ -13,3 +13,8 @@ with col2:
     Hi, I am Marcin! I am a self-though Python programmer.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have build in Python. Feel free to contact me!
+"""
+st.write(content2)
